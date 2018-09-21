@@ -3,5 +3,5 @@
 int main()
 {
 		printf("hello, git-hub\n");
-		retuen 0;
+		return 0;
 }
